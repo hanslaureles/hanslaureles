@@ -49,7 +49,6 @@ Rather than building basic chatbot wrappers, I engineer production multi-agent s
 - **Live Deployment:** [hansaaronlaureles.netlify.app](https://hansaaronlaureles.netlify.app)
 
 ---
-
 <div align="center">
   <sub>Let's connect: <a href="mailto:hanslaureles92@gmail.com">hanslaureles92@gmail.com</a> · <a href="https://linkedin.com/in/hans-laureles-b5a732309">LinkedIn</a> · <a href="https://hansaaronlaureles.netlify.app">Portfolio</a></sub>
 </div>
