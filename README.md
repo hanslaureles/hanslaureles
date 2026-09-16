@@ -3,8 +3,8 @@
 **DLSU–Dasmariñas (BS Computer Science)** · Manila, Philippines [GMT+8]
 
 [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-hansaaronlaureles.netlify.app-2B6CB0?style=for-the-badge&logo=netlify&logoColor=white)](https://hansaaronlaureles.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hans_Laureles-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanslaureles)
-[![Email](https://img.shields.io/badge/Direct_Email-hanslaureles@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanslaureles@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hans_Laureles-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hans-laureles-b5a732309)
+[![Email](https://img.shields.io/badge/Direct_Email-hanslaureles92@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanslaureles92@gmail.com)
 
 ---
 
@@ -60,5 +60,5 @@ Rather than building basic chatbot wrappers, I engineer production multi-agent s
 ---
 
 <div align="center">
-  <sub>Let's connect: <a href="mailto:hanslaureles@gmail.com">hanslaureles@gmail.com</a> · <a href="https://linkedin.com/in/hanslaureles">LinkedIn</a> · <a href="https://hansaaronlaureles.netlify.app">Portfolio</a></sub>
+  <sub>Let's connect: <a href="mailto:hanslaureles92@gmail.com">hanslaureles92@gmail.com</a> · <a href="https://linkedin.com/in/hans-laureles-b5a732309">LinkedIn</a> · <a href="https://hansaaronlaureles.netlify.app">Portfolio</a></sub>
 </div>
