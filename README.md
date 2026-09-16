@@ -50,15 +50,6 @@ Rather than building basic chatbot wrappers, I engineer production multi-agent s
 
 ---
 
-## 📈 GitHub Telemetry
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanslaureles&show_icons=true&theme=radical&hide_border=true&title_color=38bdf8&text_color=e2e8f0&icon_color=34d399&bg_color=0e0f12" alt="Hans's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanslaureles&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0e0f12" alt="Top Languages" />
-</div>
-
----
-
 <div align="center">
   <sub>Let's connect: <a href="mailto:hanslaureles92@gmail.com">hanslaureles92@gmail.com</a> · <a href="https://linkedin.com/in/hans-laureles-b5a732309">LinkedIn</a> · <a href="https://hansaaronlaureles.netlify.app">Portfolio</a></sub>
 </div>
